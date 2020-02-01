@@ -23,7 +23,7 @@ foreach($list as $value){
         <td><?php echo $value['Name'];?></td>
         <td><?php echo $value['Genre'];?></td>
         <td><?php echo $value['Cost'];?></td>
-        <td><?php echo $value['Rating'];?></td>
+        <td><?php echo $value['Rate'];?></td>
     </tr>
 <?php
 }
