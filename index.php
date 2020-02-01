@@ -12,7 +12,7 @@ $list = $data['Games'];
 <table border="1px">
     <tr class="head">
         <td>Name</td>
-        <td>Genre/td>
+        <td>Genre</td>
         <td>Cost</td>
         <td>Rating</td>
     </tr>
